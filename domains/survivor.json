@@ -8,11 +8,8 @@
           "mx.zoho.com",
           "mx2.zoho.com",
           "mx3.zoho.com"
-        ],
-        "TXT": [
-          "v=spf1 include:zoho.com ~all"
         ]
       },
       "subdomain": "zb03928288"
-        }
+    }
 }
